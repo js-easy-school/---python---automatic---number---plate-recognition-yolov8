@@ -1,4 +1,4 @@
-## Определение номерных знаков - python
+## Распознавание номерных знаков - python
 
 ![Logo](https://raw.githubusercontent.com/js-easy-school/---python---automatic-number-plate-recognition-yolov8/main/main_for_github.png)
 
