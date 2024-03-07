@@ -1,1 +1,1 @@
-# ---python---automatic---number---plate-recognition-yolov8
+# ---python---automatic-number-plate-recognition-yolov8
