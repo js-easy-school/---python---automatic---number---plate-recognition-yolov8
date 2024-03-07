@@ -1,7 +1,6 @@
-https://raw.githubusercontent.com/js-easy-school/---python---automatic-number-plate-recognition-yolov8/main/main_for_github.png
 ## Определение номерных знаков - python
 
-![Logo](https://github.com/js-easy-school/---python---/blob/main/for_README.png?raw=true)
+![Logo](https://raw.githubusercontent.com/js-easy-school/---python---automatic-number-plate-recognition-yolov8/main/main_for_github.png)
 
 
 ### Use UBUNTU or Windows WSL
